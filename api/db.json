@@ -1,0 +1,39 @@
+{
+  "streams": [
+    {
+      "title": "Youtube",
+      "description": "Channel youtube",
+      "id": 4
+    },
+    {
+      "title": "Youtubes",
+      "description": "Channel youtubes",
+      "id": 5
+    },
+    {
+      "title": "My Channel Stream",
+      "description": "Channel Streaming",
+      "id": 6
+    },
+    {
+      "title": "Newbe",
+      "description": "New stream",
+      "id": 7
+    },
+    {
+      "title": "Second Stream",
+      "description": "Stresmo-EDITED",
+      "id": 10
+    },
+    {
+      "title": "Mobile stream",
+      "description": "How about this streaming?-EDITED",
+      "id": 11
+    },
+    {
+      "title": "Compo stream",
+      "description": "Combination streams-EDITED",
+      "id": 12
+    }
+  ]
+}

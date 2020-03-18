@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "Youtube",
+      "description": "Channel youtube",
+      "id": 4
+    },
+    {
+      "title": "Youtubes",
+      "description": "Channel youtubes",
+      "id": 5
+    },
+    {
+      "title": "My Channel Stream",
+      "description": "Channel Streaming",
+      "id": 6
+    },
+    {
+      "title": "Newbe",
+      "description": "New stream",
+      "id": 7
+    },
+    {
+      "title": "User Stream",
+      "description": "Streamed user",
+      "userId": null,
+      "id": 8
+    },
+    {
+      "title": "Newton stream",
+      "description": "Streams of sir issac newton",
+      "userId": "100329884378302100251",
+      "id": 9
+    }
+  ]
+}
